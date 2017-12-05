@@ -12,7 +12,7 @@ class App extends Component {
   constructor(props) {
     super(props);
 
-    this.state = {
+    this.state =  {
       vehiclesToDisplay: [],
       buyersToDisplay: [],
       baseUrl: 'https://joes-autos.herokuapp.com'
